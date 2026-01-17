@@ -333,7 +333,7 @@ export const portfolioList = [
     isPrivate: false,
     textRedirect: "Live Preview",
     description:
-      "Managed the customer-facing website, ensuring a smooth user experience",
+      "Developed and managed the customer-facing website, ensuring a smooth user experience",
   },
   {
     title: "Atlas Beach Fest Menu",
@@ -347,7 +347,7 @@ export const portfolioList = [
       "Engineered an innovative Atlas Menu website using PWA with Nuxt3, enabling offline functionality, online access, and mobile installation",
   },
   {
-    title: "Spin Randomizer Prize System",
+    title: "Admin Side - Spin Prize System",
     role: "Front End Developer",
     tech: "Nuxt, Tailwind CSS, Socket.IO, Pinia",
     img: ["/image/project-spin.png", "/image/project-spin.png"],
