@@ -333,7 +333,7 @@ export const portfolioList = [
     isPrivate: false,
     textRedirect: "Live Preview",
     description:
-      "Developed and managed the customer-facing website, ensuring a smooth user experience",
+      "Developed a dynamic and responsive website for Atlas Beach Fest using Nuxt.js and SASS, enhancing user engagement and event visibility",
   },
   {
     title: "Atlas Beach Fest Menu",
@@ -344,7 +344,21 @@ export const portfolioList = [
     isPrivate: false,
     textRedirect: "Live Preview",
     description:
-      "Engineered an innovative Atlas Menu website using PWA with Nuxt3, enabling offline functionality, online access, and mobile installation",
+      "Developed a Progressive Web App (PWA) for Atlas Beach Fest's digital menu using Nuxt.js and Tailwind CSS, providing attendees with an interactive and accessible dining experience",
+  },
+  {
+    title: "Review Guest Form Landing Page",
+    role: "Front End Developer",
+    tech: "Nuxt, Tailwind CSS, Pinia",
+    img: [
+      "/image/project-atlas-review.png",
+      "/image/project-atlas-review-2.png",
+    ],
+    link: "",
+    isPrivate: true,
+    textRedirect: "Private",
+    description:
+      "Created a mobile first landing page for collecting guest reviews, enhancing user engagement and feedback collection",
   },
   {
     title: "Admin Side - Spin Prize System",
@@ -355,7 +369,7 @@ export const portfolioList = [
     isPrivate: true,
     textRedirect: "Private",
     description:
-      "This is landing page for admin side to spin prize. Successfully implemented a “Spin” landing page for randomized prize selection during employee gatherings, enhancing event interactivity",
+      "Ultra widescreen landing page for admin side to spin prize. Successfully implemented a “Spin” landing page for randomized prize selection during employee gatherings, enhancing event interactivity",
   },
   {
     title: "Netstream Website",
